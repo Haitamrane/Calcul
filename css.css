@@ -1,0 +1,9 @@
+body {
+    background: #717ebd;
+}
+
+body h1 ,
+main #p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
